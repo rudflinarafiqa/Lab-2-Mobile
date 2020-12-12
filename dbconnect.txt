@@ -1,3 +1,0 @@
-dbconnect = seriousl_meow
-dbpass = ym9iCJr_RpBe
-dbuser = seriousl_meowadmin
